@@ -2,9 +2,10 @@
 
 * [Initial page](README.md)
 
-## Grupo
+## Prueba de grupo
 
-* [Untitled](grupo/untitled-1.md)
-* [Untitled](grupo/untitled.md)
-* [Pagina](grupo/pagina.md)
+* [Blank](prueba-de-grupo/blank.md)
+* [Changelog](prueba-de-grupo/untitled-1.md)
+* [Ednpoints](prueba-de-grupo/untitled.md)
+* [Scripts](prueba-de-grupo/pagina.md)
 
